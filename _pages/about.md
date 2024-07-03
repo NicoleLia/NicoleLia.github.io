@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am the Master of IT student in University of Auckland. My research interest includes machine learning and multimodal learning.
+I am a Master of IT student at the University of Auckland. My research interest includes machine learning and multimodal learning. I am also a full-stack developer and am interested in crawling.
 
 # 📖 Educations
 
-- _2016.09 - 2020.06 _, Harbin Engineering University, Bachlor of Computer Science and Technology.
-- _2023.11 - 2025.03 (now) _, University of Auckland, Master of Information Technology.
+- _2016.09 - 2020.06_, Harbin Engineering University, Bachlor of Computer Science and Technology.
+- _2023.11 - 2025.03 (now)_, University of Auckland, Master of Information Technology.
 
 # 💻 Internships
 
