@@ -23,3 +23,6 @@ main:
 
   - title: 'Reading'
     url: '/#-reading'
+
+  - title: 'Blog'
+    url: '/blog'
