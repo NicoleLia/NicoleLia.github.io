@@ -21,8 +21,8 @@ main:
   # - title: 'Work Experience'
   #   url: '/#-work-experience'
 
-  # - title: 'Reading'
-  #   url: '/#-reading'
+  - title: 'Reading'
+    url: '/#-reading'
 
-  - title: 'Blog'
-    url: '/blog'
+  # - title: 'Blog'
+  #   url: '/blog'

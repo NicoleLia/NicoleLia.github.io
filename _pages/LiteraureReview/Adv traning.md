@@ -23,7 +23,7 @@ redirect_from:
   $$
 
   1. if given a classifier F and a set of data (x,y), find a minimum perturbation $\delta$ such that $\delta + x ≠ y$;
-  2. for a single input, the smallest perturbation norm is $||\delta_{min}$;
+  2. for a single input, the smallest perturbation norm is $\delta_{min}$;
   3. is defined globally over the dataset by computing the average of the robustness over the entire dataset.
 
 - LOSS[1] - it is to find the maximum Loss within the linear domain $\epsilon$, and the lower the Loss, the more robust it is.
@@ -40,7 +40,7 @@ redirect_from:
 
 ### Attack
 
-![alt text](image.png)
+![alt text](/_pages/LiteraureReview/image/image.png)
 
 #### White Attack
 
@@ -70,7 +70,7 @@ There's a lot more, like physical attacks etc etc, more on that when I have time
 
 There are currently three approaches to defense DNN: Gradient Masking - , Robust Optimization, Adversarial Example Detection[1]
 
-![alt text](image-1.png)
+![alt text](/_pages/LiteraureReview/image/image-1.png)
 
 #### Gradient Masking
 

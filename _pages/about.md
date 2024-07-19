@@ -24,7 +24,19 @@ I am a Master of IT student at the University of Auckland. My research interest 
 - _2016.09 - 2020.06_, Harbin Engineering University, Bachlor of Computer Science and Technology.
 - _2023.11 - 2025.03 (now)_, University of Auckland, Master of Information Technology.
 
-# 💻 Work Experience
+<!-- # 💻 Work Experience
 
 - _2020.07 - 2021.07_, Front-End Web Developer, Shenzhen Xiaoxi Streaming Technology Co, China.
-- _2021.10 - 2023.03_, Front-End Web Developer, Shenzhen Jiangren Network Technology Co, China.
+- _2021.10 - 2023.03_, Front-End Web Developer, Shenzhen Jiangren Network Technology Co, China. -->
+
+# 👓 Reading
+
+- Literature Reviews
+  - Adversarial
+    - [Adversarial Robustness](/adversarial-robustness)
+
+---
+
+- Alignment Challenges
+  - Language models to generate outputs that may not align with specific human preferences or follow instructions accurately.
+    - [Training Language Models to Follow Instructions with Human Feedback](/human-preferences)
