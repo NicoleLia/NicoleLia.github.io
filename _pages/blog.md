@@ -11,4 +11,4 @@ redirect_from:
 - Literature Reviews
 - Alignment Challenges
   - Language models to generate outputs that may not align with specific human preferences or follow instructions accurately.
-    - [Training Language Models to Follow Instructions with Human Feedback](/_pages/AlignmentChallenges/HumanPreferances/index.md)
+    - [Training Language Models to Follow Instructions with Human Feedback](/human-preferences)
